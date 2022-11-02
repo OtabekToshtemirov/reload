@@ -1,0 +1,26 @@
+.nav{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+
+}
+.nav a{
+    color: aliceblue;
+    text-decoration: none;
+    list-style: none;
+}
+.navbar-brand{
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+ul{
+    display: flex;
+
+}
+ul li{
+    margin: 10px;
+    list-style-type: none;
+    font-weight: 500;
+    font-size: larger;
+}
