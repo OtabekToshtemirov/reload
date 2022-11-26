@@ -6,3 +6,4 @@ System.out.println(z);
 //Bu mening birinchi kodim
 //bi bir yangilab turamiz
 
+df
